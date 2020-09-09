@@ -1,1 +1,0 @@
-Projektmappe für den Taschenrechner
