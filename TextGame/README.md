@@ -1,3 +1,3 @@
-#TextGames
+# TextGame
 
-Hier habt ihr alle bisherigen versionen meines TextGames
+all meine TextGame Versionen
