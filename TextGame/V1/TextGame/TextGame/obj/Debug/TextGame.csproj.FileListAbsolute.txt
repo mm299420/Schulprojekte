@@ -1,0 +1,6 @@
+/Users/mm29942/RiderProjects/TextGame/TextGame/obj/Debug/TextGame.csprojAssemblyReference.cache
+/Users/mm29942/RiderProjects/TextGame/TextGame/obj/Debug/TextGame.csproj.CoreCompileInputs.cache
+/Users/mm29942/RiderProjects/TextGame/TextGame/bin/Debug/TextGame.exe
+/Users/mm29942/RiderProjects/TextGame/TextGame/bin/Debug/TextGame.pdb
+/Users/mm29942/RiderProjects/TextGame/TextGame/obj/Debug/TextGame.exe
+/Users/mm29942/RiderProjects/TextGame/TextGame/obj/Debug/TextGame.pdb
